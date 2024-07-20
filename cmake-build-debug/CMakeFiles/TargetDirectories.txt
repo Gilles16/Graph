@@ -1,0 +1,3 @@
+D:/MATHE_PRAKTIKUM/MATHE_PRAKTIKUM_5/cmake-build-debug/CMakeFiles/MATHE_PRAKTIKUM_5.dir
+D:/MATHE_PRAKTIKUM/MATHE_PRAKTIKUM_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MATHE_PRAKTIKUM/MATHE_PRAKTIKUM_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
